@@ -41,7 +41,7 @@ The dataset consists of comprehensive records of ATP men's professional tennis m
 
 1. **Data Preparation**: Place the dataset files in the `dataset` folder.
 2. **Running Models**: Navigate to the `Code` folder and open the desired Jupyter notebook. Follow the steps in the notebook to train and evaluate the models.
-3. **Parameter Tuning**: Some notebooks allow tuning of hyperparameters such as `K` and `sigma` to optimize model performance.
+3. **Parameter Tuning**: Some notebooks allow tuning of hyperparameters such as `K` , `delta`, `nu` and `sigma` to optimize model performance.
 4. **Visualization**: The notebooks include plots to visualize results and help in analyzing model performance.
 
 ## Results and Analysis
