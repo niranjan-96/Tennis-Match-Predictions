@@ -27,7 +27,7 @@ The dataset consists of comprehensive records of ATP men's professional tennis m
 - **Code**: Includes all Jupyter notebooks implementing the various prediction models.
 
 ### Key Files:
-- **BCM_Model.ipynb**: Implements the Bookmakers Consensus Model (BCM).
+- **Bookmakers_Consensus_Model.ipynb**: Implements the Bookmakers Consensus Model (BCM).
 - **ELO_538_Model.ipynb**: Features the Elo rating model based on FiveThirtyEight's methodology.
 - **ELO_538_Model_Surface_Specific.ipynb**: A variation of the Elo model with adjustments for different court surfaces.
 - **ELO_K_factor_Model.ipynb**: Implements the classic Elo rating system with a fixed K-factor.
